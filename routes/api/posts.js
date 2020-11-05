@@ -6,7 +6,7 @@ const router = express.Router()
 // @access   public
 
 router.get('/', (req, res) => {
-  res.send('Posts route')
+    res.send('Posts route')
 })
 
 module.exports = router
