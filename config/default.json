@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://admin123:admin123@nic-poutine.jykpj.mongodb.net/nic-poutine?retryWrites=true&w=majority"
+}
